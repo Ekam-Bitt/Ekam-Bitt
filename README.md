@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Ekam Bitt, Welcome to My GitHub Profile
 
-![Ekam Bitt](https://github.com/Ekam-Bitt.png)
-<!-- ![Alt text](https://drive.google.com/file/d/1pi3TxPtZKgUm1i2N4jA6EMYUzhvI9yM0/view?usp=sharing) -->
+![banner](https://user-images.githubusercontent.com/74407205/231990386-c5d1c57e-da3d-467e-9d66-0614fe7a72c2.png)
 
 - 🔭 I’m currently pursuing B.Tech in CSE from Heritage Institute of Technology, Kolkata
 - 🌱 I’m currently learning Frontend Web Development
