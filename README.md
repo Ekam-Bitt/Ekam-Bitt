@@ -7,8 +7,11 @@
   <img src="https://profile-counter.glitch.me/Ekam-Bitt/count.svg" />
 </p>
 
-## About Me
-- 🔭 I’m currently pursuing B.Tech in CSE from Heritage Institute of Technology, Kolkata
+---
+
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400px" height="250" />
+
+- 🔭 I’m pursuing B.Tech in CSE from Heritage Institute of Technology, Kolkata
 - 🌱 I’m currently learning Frontend Web Development
 - 👯 I’m looking to collaborate on Real-world WebDev Projects
 - 🤔 I’m looking for help with React learning
@@ -17,9 +20,26 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 19 & Single
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=Ekam-Bitt&show_icons=true&theme=tokyonight" 
-/>
+<br>
 
-<!-- START_SECTION:activity -->
-<!--END_SECTION:activity-->
+---
+
+<h3 align="left">Stats : </h3>
+
+
+<br />
+
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ekam-Bitt&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Ekam-Bitt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+</td>
+</tr>
+</table>
+<br />
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ekam-Bitt&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
+</p>
+<br>
