@@ -28,7 +28,8 @@
 
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40" width="40" /></a>
 <a href="" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" width="40" /></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <br>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/> </a> <br>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -46,16 +47,11 @@
 
 <br />
 
-<table align="center">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ekam-Bitt&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Ekam-Bitt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-</td>
-</tr>
-</table>
-<br />
+<div align="center">
+<a href="https://github.com/Ekam-Bitt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekam-Bitt&layout=compact&theme=tokyonight&hide_border=true" height="200"/></a>
+<a href="https://github.com/Ekam-Bitt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ekam-Bitt&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Ekam's github stats" height="200" /></a>
+</div>
+<br>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ekam-Bitt&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
 </p>
