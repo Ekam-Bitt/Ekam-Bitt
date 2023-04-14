@@ -10,3 +10,8 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ekam-bitt-584645203/) [Twitter](https://twitter.com/BittEkam) ekambitt@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 19 & Single
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=Ekam-Bitt&show_icons=true&theme=tokyonight" 
+/>
+
