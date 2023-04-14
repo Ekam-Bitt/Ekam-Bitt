@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Real-world WebDev Projects
 - 🤔 I’m looking for help with React learning
 - 💬 Ask me about WebDev & Netwoking tips
-- 📫 How to reach me:  [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BittEkam) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ekam-bitt-584645203/) [![Follow on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/ekam.bitt28/) [![Follow on Gmail](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](ekambitt@gmail.com)
+- 📫 How to reach me:  [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/BittEkam) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ekam-bitt-584645203/) [![Follow on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/ekam.bitt28/) [![Follow on Gmail](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:ekambitt@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 19 & Single
 
