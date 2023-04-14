@@ -2,6 +2,12 @@
 
 ![banner](https://user-images.githubusercontent.com/74407205/231990386-c5d1c57e-da3d-467e-9d66-0614fe7a72c2.png)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Ekam-Bitt/count.svg" />
+</p>
+
+## About Me
 - 🔭 I’m currently pursuing B.Tech in CSE from Heritage Institute of Technology, Kolkata
 - 🌱 I’m currently learning Frontend Web Development
 - 👯 I’m looking to collaborate on Real-world WebDev Projects
