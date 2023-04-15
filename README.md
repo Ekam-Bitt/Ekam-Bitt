@@ -58,10 +58,10 @@
 <table align="center">
 <tr>
 <td>
-<a href="https://github.com/Ekam-Bitt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekam-Bitt&layout=compact&theme=radical&hide_border=true" height="200"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekam-Bitt&layout=compact&theme=radical&hide_border=true" height="200"/></a>
 </td>
 <td>
-<a href="https://github.com/Ekam-Bitt/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ekam-Bitt&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ekam's github stats" height="200" /></a>
+<a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ekam-Bitt&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ekam's github stats" height="200" /></a>
 </td>
 </tr>
 </table>
