@@ -57,16 +57,8 @@
 
 <h3 align="left">Stats : </h3><br>
 
-<table align="center">
-<tr>
-<td>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekam-Bitt&layout=compact&theme=radical&hide_border=true" height="200"/></a>
-</td>
-<td>
-<a ><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ekam-Bitt&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ekam's github stats" height="200" /></a>
-</td>
-</tr>
-</table>
+
+
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ekam-Bitt&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
 </p>
