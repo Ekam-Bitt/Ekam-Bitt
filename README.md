@@ -57,7 +57,15 @@
 
 <h3 align="left">Stats : </h3><br>
 
-
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ekam-Bitt&show_icons=true&locale=en&layout=compact&theme=radical" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=Ekam-Bitt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ekam-Bitt&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" />
