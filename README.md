@@ -10,7 +10,7 @@
   <img src="https://profile-counter.glitch.me/Ekam-Bitt/count.svg" />
 </p>
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400px" height="250" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/67fc6fe69796a1433e92819310c117759475b5cba29dccedecd68a54e6f60fe6/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3831626234623136353638343031392e363430623630333864313333652e676966" width="400px" height="250" />
 
 - 🔭 I’m pursuing B.Tech in CSE from Heritage Institute of Technology, Kolkata
 - 🌱 I’m currently learning Frontend Web Development
